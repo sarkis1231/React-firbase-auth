@@ -1,1 +1,0 @@
-React Firebase authentication using hooks and privet routes
